@@ -7,7 +7,7 @@ ${\color{#211e1c}Oh}$ ${\color{#342d2b}golden}$ ${\color{#47423f}boy}$ ${\color{
 ${\color{#d6c7ba}You}$ ${\color{#bdafa4}were}$ ${\color{#a1978f}mine}$ ${\color{#8a827b}but}$ ${\color{#78716b}you}$ ${\color{#645e5e}were}$ ${\color{#47423f}awful}$ ${\color{#342d2b}every}$ ${\color{#211e1c}time}$
 
 <p align=center>
-<code><a href=placeholder>guns.lol</a></code>         <code><a href=https://listography.com/natsmixtape>listo</a></code>
+<code><a href=https://rentry.co/nataliescatorccio>rentry</a></code>         <code><a href=https://listography.com/natsmixtape>listo</a></code>
 </p>
 
 ![gv](https://komarev.com/ghpvc/?username=nataliescatorccio&style=plastic&color=grey&label=♡&base=1000)
